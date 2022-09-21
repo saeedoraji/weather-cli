@@ -1,0 +1,17 @@
+# i used yaml file to enable commenting
+- city: paris
+  temp: f
+- city: cologne
+  temp: c
+- zipCode: 75015,fr
+  temp: c
+- city: berlin
+  temp: c
+- city: amsterdam
+  temp: f
+- city: dusseldorf
+  temp: c
+- city: rotterdam
+  temp: c
+- city: vienna
+  temp: f
